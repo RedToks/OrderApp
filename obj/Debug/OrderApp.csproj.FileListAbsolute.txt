@@ -1,0 +1,16 @@
+C:\Users\Svoevolin D\Desktop\c\Test\OrderApp\OrderApp\bin\Debug\OrderApp.exe.config
+C:\Users\Svoevolin D\Desktop\c\Test\OrderApp\OrderApp\bin\Debug\OrderApp.exe
+C:\Users\Svoevolin D\Desktop\c\Test\OrderApp\OrderApp\bin\Debug\OrderApp.pdb
+C:\Users\Svoevolin D\Desktop\c\Test\OrderApp\OrderApp\obj\Debug\OrderApp.csproj.AssemblyReference.cache
+C:\Users\Svoevolin D\Desktop\c\Test\OrderApp\OrderApp\obj\Debug\OrderApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Svoevolin D\Desktop\c\Test\OrderApp\OrderApp\obj\Debug\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\Svoevolin D\Desktop\c\Test\OrderApp\OrderApp\obj\Debug\OrderApp.exe
+C:\Users\Svoevolin D\Desktop\c\Test\OrderApp\OrderApp\obj\Debug\OrderApp.pdb
+C:\Users\Svoevolin D\Desktop\OrderApp\OrderApp\bin\Debug\OrderApp.exe.config
+C:\Users\Svoevolin D\Desktop\OrderApp\OrderApp\bin\Debug\OrderApp.exe
+C:\Users\Svoevolin D\Desktop\OrderApp\OrderApp\bin\Debug\OrderApp.pdb
+C:\Users\Svoevolin D\Desktop\OrderApp\OrderApp\obj\Debug\OrderApp.csproj.AssemblyReference.cache
+C:\Users\Svoevolin D\Desktop\OrderApp\OrderApp\obj\Debug\OrderApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Svoevolin D\Desktop\OrderApp\OrderApp\obj\Debug\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\Svoevolin D\Desktop\OrderApp\OrderApp\obj\Debug\OrderApp.exe
+C:\Users\Svoevolin D\Desktop\OrderApp\OrderApp\obj\Debug\OrderApp.pdb
